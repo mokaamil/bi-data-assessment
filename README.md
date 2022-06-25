@@ -31,9 +31,9 @@ organized and efficient business process.
 ## What the process looks like
 1. Data profiling : https://github.com/mokaamil/bi-data-assessment/blob/main/Data%20Profiling.xlsx
 2. Get Data : 
-<br/><center><img src="https://github.com/mokaamil/bi-data-assessment/blob/main/get%20data.png" width="800" height="800"><center/><br/>
+<br/><br/><center><img src="https://github.com/mokaamil/bi-data-assessment/blob/main/get%20data.png" width="800" height="800"><center/><br/><br/>
 3. Choose Data : 
-![Choose Data Image](https://github.com/mokaamil/bi-data-assessment/blob/main/choose%20data.png)
+<br/><br/>![Choose Data Image](https://github.com/mokaamil/bi-data-assessment/blob/main/choose%20data.png)<br/><br/>
 4. Define Model : 
 ![Define Model Image](https://github.com/mokaamil/bi-data-assessment/blob/main/define%20model.png)
 5. Produce graph : 
