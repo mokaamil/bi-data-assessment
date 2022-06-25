@@ -31,11 +31,11 @@ organized and efficient business process.
 ## What the process looks like
 1. Data profiling : https://github.com/mokaamil/bi-data-assessment/blob/main/Data%20Profiling.xlsx
 2. Get Data : 
-<br/><br/><center><img src="https://github.com/mokaamil/bi-data-assessment/blob/main/get%20data.png" width="800" height="800"><center/><br/><br/>
+<br/>![Get Data Image](https://github.com/mokaamil/bi-data-assessment/blob/main/get%20data.png)<br/><br/>
 3. Choose Data : 
-<br/><br/>![Choose Data Image](https://github.com/mokaamil/bi-data-assessment/blob/main/choose%20data.png)<br/><br/>
+<br/>![Choose Data Image](https://github.com/mokaamil/bi-data-assessment/blob/main/choose%20data.png)<br/><br/>
 4. Define Model : 
-![Define Model Image](https://github.com/mokaamil/bi-data-assessment/blob/main/define%20model.png)
+<br/>![Define Model Image](https://github.com/mokaamil/bi-data-assessment/blob/main/define%20model.png)<br/><br/>
 5. Produce graph : 
-![Graph Image](https://github.com/mokaamil/bi-data-assessment/blob/main/graph.png)
+<br/>![Graph Image](https://github.com/mokaamil/bi-data-assessment/blob/main/graph.png)<br/>
 6. Final PowerBi pbix : https://github.com/mokaamil/bi-data-assessment/blob/main/bi%20solutions.pbix
