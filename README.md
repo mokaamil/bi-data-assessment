@@ -11,7 +11,7 @@ organized and efficient business process.
 4. Construct data infrastructure (dataflows, data marts, data model, etc.)
 5. Develop a Business Intelligence reporting
 
-## What the process looks like
+## What are the step involved
 1. Data collection from various sources
 2. Integrate data into database/DW
 3. BI professionals perform analytical queries to finalise data
@@ -27,3 +27,11 @@ organized and efficient business process.
 - Identify relationship link in data model
 - Design report to populate data visualization
 - Report is used in operational and strategic decisions to help organizations make better data-driven decisions
+
+## What the process looks like
+1. Data profiling : https://github.com/mokaamil/bi-data-assessment/blob/main/Data%20Profiling.xlsx
+2. Get Data : https://github.com/mokaamil/bi-data-assessment/blob/main/get%20data.png
+3. Choose Data : https://github.com/mokaamil/bi-data-assessment/blob/main/choose%20data.png
+4. Define Model : https://github.com/mokaamil/bi-data-assessment/blob/main/define%20model.png
+5. Produce graph : https://github.com/mokaamil/bi-data-assessment/blob/main/graph.png
+6. Final PowerBi pbix : https://github.com/mokaamil/bi-data-assessment/blob/main/bi%20solutions.pbix
